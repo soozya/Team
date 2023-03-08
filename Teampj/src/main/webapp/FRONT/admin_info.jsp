@@ -10,7 +10,7 @@
 <script type="text/javascript" src="http://code.jquery.com/jquery-3.3.1.min.js"></script>
 <link href="/Teampj/css/bootstrap.min.css" rel="stylesheet">
 <link href="/Teampj/css/asj.css" rel="stylesheet">
-      
+       
 <title>::회원정보 관리::</title>
 <script>
 $(function(){
@@ -41,7 +41,7 @@ table td{
  <div id="contents"> <!-- 사이드 제외 전체구역 -->
   <div class="main">
     <div class="top">
-      <img src="./icon/mem_join.png" id="admin_info_img" width="50px">
+      <img src="/Teampj/icon/mem_join.png" id="admin_info_img" width="50px">
       <div id="admin_info"><font size="4"><b>회원정보 관리</b></font><br>
            비밀번호 초기화 및 회원 탈퇴 처리가 가능합니다.<p>
       </div>
